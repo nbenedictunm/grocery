@@ -1,4 +1,25 @@
 ## Welcome to GitHub Pages
+Create Account
+Login
+Manage Account
+Look For Groceries
+Create Report
+View Past Purchases
+Cancel an Order
+Make Request For New Product
+Store Payment Info
+
+
+
+
+
+
+
+
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/nbenedictunm/grocery/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
