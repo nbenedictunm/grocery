@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Grocery
 [Create Account](Create-Account.html)
 [Login](Login.html)
 [Manage Account](Manage-Account.html)
