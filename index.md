@@ -4,7 +4,7 @@
 [Manage Account](Manage-Account.html)
 [Look For Groceries](Look-For-Groceries.html)
 [Create Report](Create-Report.html)
-[View Past Purchases](View-Past-Purchases)
+[View Past Purchases](View-Past-Purchases.html)
 [Cancel an Order](Cancel-an-Order.html)
 [Make Request For New Product](Make-Request-For-New-Product.html)
 [Store Payment Info](Store-Payment-Info.html)
