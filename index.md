@@ -3,6 +3,7 @@
 [Login](Login.html)
 [Manage Account](Manage-Account.html)
 [Look For Groceries](Look-For-Groceries.html)
+[View Cart](Cart.html)
 [Create Report](Create-Report.html)
 [View Past Purchases](View-Past-Purchases.html)
 [Cancel an Order](Cancel-an-Order.html)
